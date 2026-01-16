@@ -39,13 +39,13 @@ Run the compiled binary with a GitHub username as the argument:
 ### Example
 
 ```bash
-./github-activity kamranahmedse
+./github-activity aryalr
 ```
 
 **Output:**
 ```
-Event: PushEvent di Repo: kamranahmedse/developer-roadmap
-Event: WatchEvent di Repo: kamranahmedse/developer-roadmap
+Event: PushEvent di Repo: aryalr/developer-roadmap
+Event: WatchEvent di Repo: aryalr/developer-roadmap
 ...
 ```
 
